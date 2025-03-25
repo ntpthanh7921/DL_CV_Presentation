@@ -32,12 +32,13 @@ Presentation include 2 parts:
 - Theory: should answer 3 questions: What? Why (Motivation)? How
 (Method/Approach (by prior research/papers, and your method/method from
 selected paper), Results, ....)? - Slides.
+
 - Demo: Code implementation for demonstration with your own sample inputs,
-outputs. Code can be from github repo provided by selected paper in case the
+outputs. Code can be from Github repo provided by selected paper in case the
 topic from SCI journal/conference paper.
 
 Time for presentation: at least 30 minutes for Theory + Demo, ~30 minutes for
 Q&A.
 
-Submit slides for presentation by 20/03, 15:59 PM (plan). English. PDF. No
+Submit slides for presentation by 27/03, 15:59 PM (plan). English. PDF. No
 report.
